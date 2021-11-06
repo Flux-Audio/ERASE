@@ -13,7 +13,7 @@ Make sure you have Cargo installed on your computer (the Rust compiler). Then in
 # What is ERASE?
 Remember the old version of HYSTERESIS that had all those features that I mercilessly removed? Well here's one of them as a stand-alone plugin: the erase knob. What is it? It's a slew-limiter where you can choose between softer or harder slew clipping. What does that mean? It's a sort of dirty distorted low-pass filter where things tend to look more like triangle waves the more you filter them.
 
-How to get a similar sound as the erase knob in HYSTERESIS v0.2.0: turn hardness to 0.5, pre/post to 0dB, inv/dry/wet to 0.5 and play with erase knob.
+How to get a similar sound as the erase knob in HYSTERESIS v0.2.0: turn hardness to 0.5, post to 0dB, inv/dry/wet to 0.5 and play with erase knob.
 
 How to emulate the sound of the old HYSTERESIS plugin: chain an instance of HYSTERESIS v0.3.1 or newer and an instance of ERASE.
 
