@@ -15,7 +15,7 @@ Remember the old version of HYSTERESIS that had all those features that I mercil
 
 How to get a similar sound as the erase knob in HYSTERESIS v0.2.0: turn hardness to 0.5, pre/post to 0dB, inv/dry/wet to 0.5 and play with erase knob.
 
-How to emulate 
+How to emulate the sound of the old HYSTERESIS plugin: chain an instance of HYSTERESIS v0.3.1 or newer and an instance of ERASE.
 
 ## Controls Explained
 + erase: amount of slew applied
